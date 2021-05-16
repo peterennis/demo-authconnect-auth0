@@ -1,6 +1,6 @@
 # Demo App: Ionic Auth Connect with Auth0
 
-This is a reference app used in the Auth0 article (coming soon) on building a login/logout experience with Ionic Auth Connect.
+This is a reference app used in the [Auth0 article](https://auth0.com/blog/adding-auth0-to-an-ionic-angular-app-using-auth-connect/) on building a login/logout experience with Ionic Auth Connect.
 
 > Note: This is a demo/reference sample and thus may not be maintained over time. Specs: @ionic/angular 4.7.1, Angular 8.
 
@@ -25,7 +25,7 @@ This is a modified version of the Ionic `blank` starter project. There are 3 maj
 
 * `<ion-button>`: [Buttons](https://ionicframework.com/docs/api/button) for logging in and out of the app.
 * `<ion-loading>`: A [loading indicator](https://ionicframework.com/docs/api/loading) displayed when login begins.
-* `ion-avatar>`: [Avatar](https://ionicframework.com/docs/api/avatar) displays user's profile picture.
+* `<ion-avatar>`: [Avatar](https://ionicframework.com/docs/api/avatar) displays user's profile picture.
 
 ## How to Run
 
